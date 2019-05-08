@@ -1,0 +1,30 @@
+{
+  "name": "mad-libs-bot",
+  "version": "0.1.0",
+  "description": "Telegram Mad Libs game bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetCoder95/telegram-mad-lips.git"
+  },
+  "keywords": [
+    "mad-libs",
+    "mad",
+    "libs",
+    "telegram",
+    "bot"
+  ],
+  "author": "MetCoder95",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MetCoder95/telegram-mad-lips/issues"
+  },
+  "homepage": "https://github.com/MetCoder95/telegram-mad-lips#readme",
+  "dependencies": {
+    "mz": "^2.7.0",
+    "telegraf": "^3.25.5"
+  }
+}

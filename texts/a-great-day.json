@@ -1,0 +1,25 @@
+{
+  "title": "A great day!",
+  "text": "This morning %s woke up feeling %s.\n'It is going to be a %s day!'\nOutside, a bunch of %ss were protesting to keep %s in stores. They began to %s to the rhythm of the %s, which made all the %ss very %s.\nConcerned, %s texted %s, who flew %s to %s and dropped %s in a puddle of frozen %s. %s woke up in the year %s, in a world where %ss ruled the world.",
+  "descriptors": [
+    "name",
+    "adjetive",
+    "adjetive",
+    "animal",
+    "food",
+    "verb",
+    "noun",
+    "fruit",
+    "adjetive",
+    "name",
+    "superhero",
+    "name",
+    "country",
+    "name",
+    "dessert",
+    "name",
+    "year",
+    "noun"
+  ],
+  "qtyWordsNeeded": 18
+}
